@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "879581137612",
+    "project_id": "michaelapp-aa143",
+    "storage_bucket": "michaelapp-aa143.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879581137612:android:17c00a7aa22fd649449069",
+        "android_client_info": {
+          "package_name": "com.example.michael_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "879581137612-bvlvl5c7t2qepgbidstc4sl1vikppkvm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMk21NnHiTnFjGL6YkSRN60_skrwJS69E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "879581137612-bvlvl5c7t2qepgbidstc4sl1vikppkvm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
